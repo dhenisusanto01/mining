@@ -6,6 +6,6 @@
 #       stratum-asia.rplant.xyz /Singapore/
 #
 while [ 1 ]; do
-./cpuminer-sse2 -a yespowerSUGAR -o stratum+tcps://stratum-ru.rplant.xyz:17042 -u sugar1q8w48n6qapnfqjjd24yawx66gsgghjtu2uyas8k
+./cpuminer-sse2 -a yespowerSUGAR -o stratum+tcps://stratum-asia.rplant.xyz:17042 -u sugar1q8w48n6qapnfqjjd24yawx66gsgghjtu2uyas8k
 sleep 5
 done
