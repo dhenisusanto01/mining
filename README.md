@@ -6,6 +6,8 @@ cd mining
 
 nano miner-sugar.sh
 
+Creat your wallet sugar : hhtps://sugar.wtf/wallet
+
 Change your addres coin
 
 And change pool domain to dns
